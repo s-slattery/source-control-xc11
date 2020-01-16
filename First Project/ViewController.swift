@@ -17,6 +17,8 @@ class ViewController: NSViewController {
         // Added some new comments by Scott Slattery
         var testvar: int = 0
     }
+    
+    // some f'd up modification
 
     override var representedObject: Any? {
         didSet {
