@@ -14,6 +14,8 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        // Added some new comments by Scott Slattery
+        var testvar: int = 0
     }
 
     override var representedObject: Any? {
